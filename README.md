@@ -7,8 +7,8 @@ In addition, each circuit is designed to PCB to ensure ease of manufacture and p
 
 This JI1FLB　SO2R box (controller) provides software as freeware subject to non-commercial use.
 Hardware PCB board is scheduled to provide KiCAD data subject to non-commercial use after completion of reprocessing.
-Part of the PCB needs consideration in mounting the parts, but for those who need it, we will supply with shipping fee and very low cost actual expenses.
-
+I will supply the PCB to those who need it, with shipping fee and very cheap actual expenses. 
+However, some consideration is required when installing some parts.
 
 このJI1FLB　SO2Rボックス（コントローラ）は、アマチュア無線コンテスト用ツールでOTRPSプロトコロルで動作します。
 この装置は、2台のアマチュア無線リグをコントロールするもので、ArduinoUNOのスケッチでプログラムされています。
@@ -17,6 +17,6 @@ Part of the PCB needs consideration in mounting the parts, but for those who nee
 
 このJI1FLB　SO2Rボックス（コントローラ）は、非商用利用を条件にソフトウェアをフリーウェアとして提供します。
 ハードウェハのPCB基板は、KiCADデータを再作が完了後に、非商用利用を条件に提供する予定です。
-PCBは、一部、部品取り付け上の配慮が必要ですが、必要な方には、送料と非常に安価な実費で供給します。
+私は、PCBを必要な方に、送料と非常に安価な実費で供給します。ただし、一部の部品を取り付け際に若干の考慮が必要です。
 
 2017/12/25 Seiichi Tanaka 田中盛一
