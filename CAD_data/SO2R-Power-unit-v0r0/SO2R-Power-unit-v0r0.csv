@@ -1,0 +1,18 @@
+"ID";"参照記号";"パッケージ";"数";"名称";"Supplier and ref";
+1;"C1,C5";"C_Radial_D10_L13_P5";2;"100uF";;;
+2;"C2,C3,C6,C7";"C_Rect_L7_W2_P5";4;"0.1uF";;;
+3;"D1";"LED-3MM";1;"LED";;;
+4;"D6,D7";"Diode_DO-41_SOD81_Horizontal_RM10";2;"1N4007";;;
+5;"F1";"C_Rect_L7_W3.5_P5";1;"RUEF185";;;
+6;"F2,F3";"C_Rect_L7_W3.5_P5";2;"RXEF065";;;
+7;"F4,F5";"C_Rect_L7_W3.5_P5";2;"RXEF110";;;
+8;"P1,P2,P3,P4,P5";"CON-JST-B02B-XASK-1";5;"CONN_01X02";;;
+9;"U1,U2";"TO-220";2;"LM7805CT";;;
+10;"W1,W2,W3,W4,W5";"SolderWirePad_single_0-8mmDrill";5;"TEST_1P";;;
+11;"VAR1";"RV_Disc_D7_W3.4_P5";1;"CNR07D151K";;;
+12;"C4";"C_Radial_D6.3_L11.2_P2.5";1;"56uF 25SEPF56M";;;
+13;"C8";"C_Radial_D6.3_L11.2_P2.5";1;"56uF";;;
+14;"REF2,REF1";"Heatsink-16PB017";2;"Heatsink-16PB017";;;
+15;"R1";"Resistor_Horizontal_RM7mm";1;"2.2K";;;
+16;"FI1";"EMIFILTER";1;"EMI_FILTER2";;;
+17;"REF**,REF**,REF**,REF**";"MountingHole_3.2mm_M3_ISO7380_Pad";4;"MountingHole_3.2mm_M3_ISO7380_Pad";;;

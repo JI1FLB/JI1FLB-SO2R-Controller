@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SO2R-Power-unit-v0r0-rescue)(type Legacy)(uri ${KIPRJMOD}/SO2R-Power-unit-v0r0-rescue.lib)(options "")(descr ""))
+)
