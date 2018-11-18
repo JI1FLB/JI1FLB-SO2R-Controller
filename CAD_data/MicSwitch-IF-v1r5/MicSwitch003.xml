@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\盛一\Documents\KiCAD\MicSwitch-IF-v1r5\MicSwitch003.sch</source>
+    <date>2018/11/17 11:41:54</date>
+    <tool>Eeschema (5.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Mic-Switch-IF</title>
+        <company>Seiichi Tanaka JI1FLB</company>
+        <rev>v1r5</rev>
+        <date>2018-11-09</date>
+        <source>MicSwitch003.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="RL1">
+      <value>941H-2C-5D</value>
+      <footprint>MicSwitch003:351</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="351" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>33A2BB71</tstamp>
+    </comp>
+    <comp ref="RL2">
+      <value>941H-2C-5D</value>
+      <footprint>MicSwitch003:351</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="351" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5860B2DB</tstamp>
+    </comp>
+    <comp ref="RL3">
+      <value>941H-2C-5D</value>
+      <footprint>MicSwitch003:351</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="351" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>53AA1B8C</tstamp>
+    </comp>
+    <comp ref="RL4">
+      <value>941H-2C-5D</value>
+      <footprint>MicSwitch003:351</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="351" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4B1AC4EE</tstamp>
+    </comp>
+    <comp ref="DC+5V1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8F8809E0</tstamp>
+    </comp>
+    <comp ref="CONTROL1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E2EDA20F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>MicSwitch003:DO35-7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="1N4148DO35-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>AE17BF77</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>MicSwitch003:DO35-7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="1N4148DO35-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>653666B8</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>MicSwitch003:DO35-7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="1N4148DO35-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>FA13ECFB</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>MicSwitch003:DO35-7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="1N4148DO35-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6DDBBAB3</tstamp>
+    </comp>
+    <comp ref="DSS1">
+      <value>0.01u</value>
+      <footprint>MicSwitch003:EMIFILTER</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="EMIFILTER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8B5E64A1</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>2SK4017</value>
+      <footprint>MicSwitch003:TO220BV</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="STP5NA50" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>852CDAAB</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0F3C4881</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>33</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>50C2BBA6</tstamp>
+    </comp>
+    <comp ref="CN1-MICIN1">
+      <value>CON-JST-XA-8</value>
+      <footprint>MicSwitch003:CON-JST-B08B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-8" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8B2FBF0E</tstamp>
+    </comp>
+    <comp ref="CN2-RIGHT1">
+      <value>CON-JST-XA-8</value>
+      <footprint>MicSwitch003:CON-JST-B08B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-8" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66362ECA</tstamp>
+    </comp>
+    <comp ref="CN3-LEFT1">
+      <value>CON-JST-XA-8</value>
+      <footprint>MicSwitch003:CON-JST-B08B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-8" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A53F80BC</tstamp>
+    </comp>
+    <comp ref="RL5">
+      <value>941H-2C-5D</value>
+      <footprint>MicSwitch003:351</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="351" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BFBA344</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>MicSwitch003:DO35-7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="1N4148DO35-7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C168EF27</tstamp>
+    </comp>
+    <comp ref="KEY-IN1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>15626FF6</tstamp>
+    </comp>
+    <comp ref="LEFT-KEY1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7DD45E6B</tstamp>
+    </comp>
+    <comp ref="RIGHT-KEY1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8A78D0CE</tstamp>
+    </comp>
+    <comp ref="KEYPAD2">
+      <value>PINHD-1X2</value>
+      <footprint>MicSwitch003:1X02</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PINHD-1X2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>13284E29</tstamp>
+    </comp>
+    <comp ref="TO-AMP1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F82E1228</tstamp>
+    </comp>
+    <comp ref="FROM-AMP1">
+      <value>CON-JST-XA-2</value>
+      <footprint>MicSwitch003:CON-JST-B02B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>008359B1</tstamp>
+    </comp>
+    <comp ref="KEYPAD1">
+      <value>PINHD-1X2</value>
+      <footprint>MicSwitch003:1X02</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PINHD-1X2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1F3C595D</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1.5k</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1697B6D6</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1.5k</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0C033D0A</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>2.2k</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C161F5C3</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>4.7k</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A40A9EB3</tstamp>
+    </comp>
+    <comp ref="OK1">
+      <value>TLP222AF</value>
+      <footprint>MicSwitch003:DIL04</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PC817" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6132B448</tstamp>
+    </comp>
+    <comp ref="OK2">
+      <value>TLP222AF</value>
+      <footprint>MicSwitch003:DIL04</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PC817" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4D6E1051</tstamp>
+    </comp>
+    <comp ref="OK3">
+      <value>TLP222AF</value>
+      <footprint>MicSwitch003:DIL04</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PC817" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>AFD64428</tstamp>
+    </comp>
+    <comp ref="OK4">
+      <value>TLP222AF</value>
+      <footprint>MicSwitch003:DIL04</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="PC817" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>18F9E5E8</tstamp>
+    </comp>
+    <comp ref="TO-ARUDINO1">
+      <value>CON-JST-XA-5</value>
+      <footprint>MicSwitch003:CON-JST-B05B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-5" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C335CA9B</tstamp>
+    </comp>
+    <comp ref="TO-KEYPADSW1">
+      <value>CON-JST-XA-5</value>
+      <footprint>MicSwitch003:CON-JST-B05B-XASK-1</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="CON-JST-XA-5" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>BDE53363</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>480</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>1E084FE3</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>480</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C3458CBA</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>480</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>D12D576D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>480</value>
+      <footprint>MicSwitch003:0207_7</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="R-US_0207_7" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>33604886</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EDD83C1</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3A593171</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7AE3B869</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F17237D2</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>D974B934</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>76D5E1C6</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>33D9E872</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5563B0E5</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.01</value>
+      <footprint>MicSwitch003:C025-030X050</footprint>
+      <libsource lib="MicSwitch003-eagle-import" part="C-EU025-030X050" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>076DD65A</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="MicSwitch003-eagle-import" part="1N4148DO35-7">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148DO35-7</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="351">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">351</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="16" name="2" type="passive"/>
+        <pin num="O1" name="O" type="passive"/>
+        <pin num="O2" name="O" type="passive"/>
+        <pin num="P1" name="P" type="passive"/>
+        <pin num="P2" name="P" type="passive"/>
+        <pin num="S1" name="S" type="passive"/>
+        <pin num="S2" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="C-EU025-030X050">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU025-030X050</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="CON-JST-XA-2">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CON-JST-XA-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="CON-JST-XA-5">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CON-JST-XA-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
+        <pin num="5" name="5" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="CON-JST-XA-8">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">CON-JST-XA-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
+        <pin num="5" name="5" type="unspc"/>
+        <pin num="6" name="6" type="unspc"/>
+        <pin num="7" name="7" type="unspc"/>
+        <pin num="8" name="8" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="EMIFILTER">
+      <fields>
+        <field name="Reference">DSS6</field>
+        <field name="Value">EMIFILTER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P$1" type="passive"/>
+        <pin num="2" name="P$2" type="passive"/>
+        <pin num="3" name="P$3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="PC817">
+      <fields>
+        <field name="Reference">OK</field>
+        <field name="Value">PC817</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="EMIT" type="passive"/>
+        <pin num="4" name="COL" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="PINHD-1X2">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-1X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="R-US_0207_7">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_0207_7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MicSwitch003-eagle-import" part="STP5NA50">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">STP5NA50</field>
+      </fields>
+      <pins>
+        <pin num="D" name="D" type="passive"/>
+        <pin num="G" name="G" type="passive"/>
+        <pin num="S" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="MicSwitch003-eagle-import">
+      <uri>C:\Users\盛一\Documents\KiCAD\MicSwitch-IF-v1r5/MicSwitch003-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(CN2-RIGHT1-Pad2)">
+      <node ref="RL1" pin="S1"/>
+      <node ref="CN2-RIGHT1" pin="2"/>
+    </net>
+    <net code="2" name="Net-(CN3-LEFT1-Pad1)">
+      <node ref="RL1" pin="O2"/>
+      <node ref="CN3-LEFT1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(CN3-LEFT1-Pad4)">
+      <node ref="CN3-LEFT1" pin="4"/>
+      <node ref="RL2" pin="O1"/>
+    </net>
+    <net code="4" name="Net-(CN3-LEFT1-Pad2)">
+      <node ref="CN3-LEFT1" pin="2"/>
+      <node ref="RL1" pin="O1"/>
+    </net>
+    <net code="5" name="Net-(CN2-RIGHT1-Pad4)">
+      <node ref="RL2" pin="S1"/>
+      <node ref="CN2-RIGHT1" pin="4"/>
+    </net>
+    <net code="6" name="Net-(CN3-LEFT1-Pad3)">
+      <node ref="RL2" pin="O2"/>
+      <node ref="CN3-LEFT1" pin="3"/>
+    </net>
+    <net code="7" name="Net-(CN2-RIGHT1-Pad3)">
+      <node ref="CN2-RIGHT1" pin="3"/>
+      <node ref="RL2" pin="S2"/>
+    </net>
+    <net code="8" name="Net-(CN3-LEFT1-Pad6)">
+      <node ref="RL3" pin="O1"/>
+      <node ref="CN3-LEFT1" pin="6"/>
+    </net>
+    <net code="9" name="Net-(C3-Pad1)">
+      <node ref="TO-KEYPADSW1" pin="4"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R6" pin="2"/>
+      <node ref="OK4" pin="4"/>
+    </net>
+    <net code="10" name="Net-(CN1-MICIN1-Pad1)">
+      <node ref="CN1-MICIN1" pin="1"/>
+      <node ref="TO-AMP1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(D1-PadA)">
+      <node ref="RL2" pin="16"/>
+      <node ref="D1" pin="A"/>
+      <node ref="D4" pin="A"/>
+      <node ref="RL3" pin="16"/>
+      <node ref="D3" pin="A"/>
+      <node ref="RL4" pin="16"/>
+      <node ref="D2" pin="A"/>
+      <node ref="RL1" pin="16"/>
+      <node ref="Q1" pin="D"/>
+      <node ref="RL5" pin="16"/>
+      <node ref="D5" pin="A"/>
+    </net>
+    <net code="12" name="Net-(CN2-RIGHT1-Pad8)">
+      <node ref="RL4" pin="S1"/>
+      <node ref="CN2-RIGHT1" pin="8"/>
+    </net>
+    <net code="13" name="Net-(CN2-RIGHT1-Pad6)">
+      <node ref="CN2-RIGHT1" pin="6"/>
+      <node ref="RL3" pin="S1"/>
+    </net>
+    <net code="14" name="Net-(CN3-LEFT1-Pad5)">
+      <node ref="CN3-LEFT1" pin="5"/>
+      <node ref="RL3" pin="O2"/>
+    </net>
+    <net code="15" name="Net-(CN2-RIGHT1-Pad5)">
+      <node ref="CN2-RIGHT1" pin="5"/>
+      <node ref="RL3" pin="S2"/>
+    </net>
+    <net code="16" name="Net-(C1-Pad1)">
+      <node ref="DSS1" pin="1"/>
+      <node ref="DC+5V1" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="17" name="Net-(OK2-Pad1)">
+      <node ref="R8" pin="2"/>
+      <node ref="OK2" pin="1"/>
+    </net>
+    <net code="18" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="TO-ARUDINO1" pin="1"/>
+    </net>
+    <net code="19" name="Net-(OK3-Pad1)">
+      <node ref="OK3" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="20" name="Net-(OK4-Pad1)">
+      <node ref="OK4" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="21" name="Net-(OK1-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="OK1" pin="1"/>
+    </net>
+    <net code="22" name="Net-(R8-Pad1)">
+      <node ref="TO-ARUDINO1" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="23" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="TO-ARUDINO1" pin="3"/>
+    </net>
+    <net code="24" name="Net-(R10-Pad1)">
+      <node ref="TO-ARUDINO1" pin="4"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C6-Pad1)">
+      <node ref="TO-KEYPADSW1" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="OK1" pin="4"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="26" name="Net-(OK1-Pad2)">
+      <node ref="OK2" pin="2"/>
+      <node ref="OK1" pin="2"/>
+      <node ref="TO-ARUDINO1" pin="5"/>
+      <node ref="OK4" pin="2"/>
+      <node ref="OK3" pin="2"/>
+    </net>
+    <net code="27" name="Net-(C5-Pad1)">
+      <node ref="TO-KEYPADSW1" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="OK2" pin="4"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="28" name="Net-(C3-Pad2)">
+      <node ref="OK3" pin="3"/>
+      <node ref="TO-KEYPADSW1" pin="5"/>
+      <node ref="C3" pin="2"/>
+      <node ref="OK4" pin="3"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="OK1" pin="3"/>
+      <node ref="KEYPAD1" pin="2"/>
+      <node ref="OK2" pin="3"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="29" name="Net-(KEYPAD1-Pad1)">
+      <node ref="KEYPAD1" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="30" name="GND">
+      <node ref="DSS1" pin="2"/>
+      <node ref="DC+5V1" pin="2"/>
+      <node ref="Q1" pin="S"/>
+      <node ref="R2" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="31" name="Net-(CN1-MICIN1-Pad6)">
+      <node ref="RL3" pin="P1"/>
+      <node ref="CN1-MICIN1" pin="6"/>
+    </net>
+    <net code="32" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="CONTROL1" pin="2"/>
+    </net>
+    <net code="33" name="Net-(CN1-MICIN1-Pad3)">
+      <node ref="CN1-MICIN1" pin="3"/>
+      <node ref="RL2" pin="P2"/>
+    </net>
+    <net code="34" name="Net-(CN1-MICIN1-Pad4)">
+      <node ref="RL2" pin="P1"/>
+      <node ref="CN1-MICIN1" pin="4"/>
+    </net>
+    <net code="35" name="Net-(CN1-MICIN1-Pad7)">
+      <node ref="RL4" pin="P2"/>
+      <node ref="CN1-MICIN1" pin="7"/>
+    </net>
+    <net code="36" name="Net-(CN1-MICIN1-Pad8)">
+      <node ref="CN1-MICIN1" pin="8"/>
+      <node ref="RL4" pin="P1"/>
+    </net>
+    <net code="37" name="+5V">
+      <node ref="RL3" pin="1"/>
+      <node ref="CONTROL1" pin="1"/>
+      <node ref="RL4" pin="1"/>
+      <node ref="RL2" pin="1"/>
+      <node ref="D4" pin="C"/>
+      <node ref="D3" pin="C"/>
+      <node ref="D2" pin="C"/>
+      <node ref="D1" pin="C"/>
+      <node ref="RL1" pin="1"/>
+      <node ref="D5" pin="C"/>
+      <node ref="RL5" pin="1"/>
+      <node ref="DSS1" pin="3"/>
+    </net>
+    <net code="38" name="Net-(Q1-PadG)">
+      <node ref="R1" pin="1"/>
+      <node ref="Q1" pin="G"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="39" name="Net-(C8-Pad2)">
+      <node ref="RL5" pin="S2"/>
+      <node ref="RIGHT-KEY1" pin="2"/>
+      <node ref="C8" pin="2"/>
+    </net>
+    <net code="40" name="Net-(C7-Pad1)">
+      <node ref="KEY-IN1" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="RL5" pin="P1"/>
+    </net>
+    <net code="41" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2"/>
+      <node ref="RL5" pin="P2"/>
+      <node ref="KEY-IN1" pin="2"/>
+    </net>
+    <net code="42" name="Net-(CN1-MICIN1-Pad5)">
+      <node ref="KEYPAD2" pin="1"/>
+      <node ref="RL3" pin="P2"/>
+      <node ref="CN1-MICIN1" pin="5"/>
+    </net>
+    <net code="43" name="Net-(CN3-LEFT1-Pad7)">
+      <node ref="CN3-LEFT1" pin="7"/>
+      <node ref="RL4" pin="O2"/>
+    </net>
+    <net code="44" name="Net-(C9-Pad1)">
+      <node ref="RL5" pin="O1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="LEFT-KEY1" pin="1"/>
+    </net>
+    <net code="45" name="Net-(C9-Pad2)">
+      <node ref="RL5" pin="O2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="LEFT-KEY1" pin="2"/>
+    </net>
+    <net code="46" name="Net-(CN3-LEFT1-Pad8)">
+      <node ref="CN3-LEFT1" pin="8"/>
+      <node ref="RL4" pin="O1"/>
+    </net>
+    <net code="47" name="Net-(FROM-AMP1-Pad2)">
+      <node ref="KEYPAD2" pin="2"/>
+      <node ref="FROM-AMP1" pin="2"/>
+      <node ref="RL1" pin="P1"/>
+    </net>
+    <net code="48" name="Net-(C8-Pad1)">
+      <node ref="RL5" pin="S1"/>
+      <node ref="RIGHT-KEY1" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="49" name="Net-(CN1-MICIN1-Pad2)">
+      <node ref="CN1-MICIN1" pin="2"/>
+      <node ref="TO-AMP1" pin="2"/>
+    </net>
+    <net code="50" name="Net-(FROM-AMP1-Pad1)">
+      <node ref="FROM-AMP1" pin="1"/>
+      <node ref="RL1" pin="P2"/>
+    </net>
+    <net code="51" name="Net-(C4-Pad1)">
+      <node ref="OK3" pin="4"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="TO-KEYPADSW1" pin="3"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="52" name="Net-(CN2-RIGHT1-Pad7)">
+      <node ref="RL4" pin="S2"/>
+      <node ref="CN2-RIGHT1" pin="7"/>
+    </net>
+    <net code="53" name="Net-(CN2-RIGHT1-Pad1)">
+      <node ref="RL1" pin="S2"/>
+      <node ref="CN2-RIGHT1" pin="1"/>
+    </net>
+  </nets>
+</export>
