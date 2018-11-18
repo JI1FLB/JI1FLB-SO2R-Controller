@@ -1,0 +1,1913 @@
+EESchema Schematic File Version 4
+LIBS:SO2R-Controler-shield-v1r1-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "SO2R-Controler-Shield"
+Date "2018-11-09"
+Rev "v1rev1"
+Comp "Seiichi Tanaka JI1FLB"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	8175 975  8375 975 
+Wire Wire Line
+	8175 1675 8375 1675
+Wire Wire Line
+	8175 3075 8475 3075
+Wire Wire Line
+	8175 3775 8475 3775
+Wire Wire Line
+	9875 975  10975 975 
+Wire Wire Line
+	9875 1175 9875 1075
+Wire Wire Line
+	9875 1075 10975 1075
+Wire Wire Line
+	9875 1675 9975 1675
+Wire Wire Line
+	9975 1675 9975 1175
+Wire Wire Line
+	9975 1175 10975 1175
+Wire Wire Line
+	9875 1875 10075 1875
+Wire Wire Line
+	10075 1875 10075 1275
+Wire Wire Line
+	10075 1275 10975 1275
+Wire Wire Line
+	10975 1375 10175 1375
+Wire Wire Line
+	10175 1375 10175 2375
+Wire Wire Line
+	10175 2375 9875 2375
+Wire Wire Line
+	9875 2575 10275 2575
+Wire Wire Line
+	10275 2575 10275 1475
+Wire Wire Line
+	10275 1475 10975 1475
+Wire Wire Line
+	10975 1575 10375 1575
+Wire Wire Line
+	10375 1575 10375 3075
+Wire Wire Line
+	10375 3075 9875 3075
+Wire Wire Line
+	10975 1675 10475 1675
+Wire Wire Line
+	10475 1675 10475 3275
+Wire Wire Line
+	10475 3275 9875 3275
+Wire Wire Line
+	9875 3775 10575 3775
+Wire Wire Line
+	10575 3775 10575 1775
+Wire Wire Line
+	10575 1775 10975 1775
+Wire Wire Line
+	9875 3975 10675 3975
+Wire Wire Line
+	10675 3975 10675 1875
+Wire Wire Line
+	10675 1875 10975 1875
+Wire Wire Line
+	8675 975  9175 975 
+Wire Wire Line
+	8675 1675 9175 1675
+Wire Wire Line
+	8575 2375 9175 2375
+Wire Wire Line
+	8775 3075 9175 3075
+Wire Wire Line
+	8775 3775 9175 3775
+Wire Wire Line
+	1350 2175 1350 2475
+Wire Wire Line
+	1350 2475 1550 2475
+Text Label 1350 2175 0    10   ~ 0
++3V3
+Wire Wire Line
+	700  2575 1000 2575
+Wire Wire Line
+	1000 2575 1000 2175
+Text Label 700  2575 0    10   ~ 0
++3V3
+Wire Wire Line
+	3900 4350 3900 4450
+Wire Wire Line
+	3200 4450 3900 4450
+Wire Wire Line
+	4800 4350 4800 4650
+Wire Wire Line
+	4400 4650 4800 4650
+Wire Wire Line
+	4800 4850 5700 4850
+Wire Wire Line
+	8175 2375 8275 2375
+Wire Wire Line
+	700  2675 1550 2675
+Wire Wire Line
+	700  2775 1450 2775
+Wire Wire Line
+	1450 2775 1550 2875
+Wire Wire Line
+	5475 1475 5575 1475
+Wire Wire Line
+	5475 2775 5575 2775
+Wire Wire Line
+	5475 2675 5575 2675
+Wire Wire Line
+	5475 2575 5575 2575
+Wire Wire Line
+	5475 2475 5575 2475
+Wire Wire Line
+	5475 2375 5575 2375
+Wire Wire Line
+	1550 3075 1500 3075
+Wire Wire Line
+	5075 975  5075 1000
+Wire Wire Line
+	2500 4450 2800 4450
+Wire Wire Line
+	1325 6150 1775 6150
+Wire Wire Line
+	3300 5350 3300 4550
+Wire Wire Line
+	3300 4550 2500 4550
+Text Label 3300 5350 0    10   ~ 0
+GND1
+Wire Wire Line
+	3600 5350 3600 4750
+Wire Wire Line
+	3600 4750 2500 4750
+Text Label 3600 5350 0    10   ~ 0
+GND1
+Wire Wire Line
+	3900 5350 3900 4950
+Wire Wire Line
+	3900 4950 2500 4950
+Text Label 3900 5350 0    10   ~ 0
+GND1
+Wire Wire Line
+	700  2875 1000 2875
+Wire Wire Line
+	1000 2875 1000 3275
+Text Label 700  2875 0    10   ~ 0
+GND1
+Wire Wire Line
+	2550 3075 2750 3075
+Wire Wire Line
+	2750 3075 2750 3300
+Text Label 2550 3075 0    10   ~ 0
+GND1
+Wire Wire Line
+	1325 6250 1675 6250
+Wire Wire Line
+	1675 6250 1675 6550
+Text Label 1325 6250 0    10   ~ 0
+GND1
+Wire Wire Line
+	1975 6350 1975 6550
+Text Label 1975 6350 0    10   ~ 0
+GND1
+Text Label 3000 4650 0    10   ~ 0
+GND1
+Text Label 4200 5350 0    10   ~ 0
+GND1
+Wire Wire Line
+	4600 5050 4600 5350
+Text Label 4600 5050 0    10   ~ 0
+GND1
+Wire Wire Line
+	9175 1175 9075 1175
+Wire Wire Line
+	9075 1175 9075 1875
+Wire Wire Line
+	9075 1875 9075 2575
+Wire Wire Line
+	9075 2575 9075 3275
+Wire Wire Line
+	9075 3275 9075 3975
+Wire Wire Line
+	9075 3975 9075 4275
+Wire Wire Line
+	9175 1875 9075 1875
+Wire Wire Line
+	9175 2575 9075 2575
+Wire Wire Line
+	9175 3275 9075 3275
+Wire Wire Line
+	9175 3975 9075 3975
+Connection ~ 9075 1875
+Connection ~ 9075 2575
+Connection ~ 9075 3275
+Connection ~ 9075 3975
+Text Label 9175 1175 0    10   ~ 0
+GND1
+Wire Wire Line
+	10700 5975 10600 5975
+Text Label 10700 5975 0    10   ~ 0
+GND1
+Wire Wire Line
+	10600 5175 10600 5475
+Wire Wire Line
+	10600 5475 10700 5475
+Text Label 10600 5175 0    10   ~ 0
+VCC
+Text Label 2550 2475 0    10   ~ 0
+VCC
+$Comp
+L HeadphoneSwitch-eagle-import:LED3MM LED1
+U 1 0 532FA941
+P 8475 975
+F 0 "LED1" V 8615 795 59  0000 L BNN
+F 1 "OSDR3133A" V 8700 795 59  0000 L BNN
+F 2 "HeadphoneSwitch:LED3MM" H 8475 975 50  0001 C CNN
+F 3 "" H 8475 975 50  0001 C CNN
+	1    8475 975 
+	0    -1   1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:LED3MM LED2
+U 1 0 0CF10A3A
+P 8475 1675
+F 0 "LED2" V 8615 1495 59  0000 L BNN
+F 1 "OSDR3133A" V 8700 1495 59  0000 L BNN
+F 2 "HeadphoneSwitch:LED3MM" H 8475 1675 50  0001 C CNN
+F 3 "" H 8475 1675 50  0001 C CNN
+	1    8475 1675
+	0    -1   1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:LED3MM LED3
+U 1 0 C7E2441E
+P 8375 2375
+F 0 "LED3" V 8515 2195 59  0000 L BNN
+F 1 "OSDR3133A" V 8600 2195 59  0000 L BNN
+F 2 "HeadphoneSwitch:LED3MM" H 8375 2375 50  0001 C CNN
+F 3 "" H 8375 2375 50  0001 C CNN
+	1    8375 2375
+	0    -1   1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:LED3MM LED4
+U 1 0 B7AEA096
+P 8575 3075
+F 0 "LED4" V 8715 2895 59  0000 L BNN
+F 1 "OSDR3133A" V 8800 2895 59  0000 L BNN
+F 2 "HeadphoneSwitch:LED3MM" H 8575 3075 50  0001 C CNN
+F 3 "" H 8575 3075 50  0001 C CNN
+	1    8575 3075
+	0    -1   1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:LED3MM LED5
+U 1 0 47A626D1
+P 8575 3775
+F 0 "LED5" V 8715 3595 59  0000 L BNN
+F 1 "OSDR3133A" V 8800 3595 59  0000 L BNN
+F 2 "HeadphoneSwitch:LED3MM" H 8575 3775 50  0001 C CNN
+F 3 "" H 8575 3775 50  0001 C CNN
+	1    8575 3775
+	0    -1   1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R6
+U 1 0 A0406511
+P 7975 975
+F 0 "R6" H 7825 1034 59  0000 L BNN
+F 1 "330" H 7825 845 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 7975 975 50  0001 C CNN
+F 3 "" H 7975 975 50  0001 C CNN
+	1    7975 975 
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R7
+U 1 0 5DDD930F
+P 7975 1675
+F 0 "R7" H 7825 1734 59  0000 L BNN
+F 1 "330" H 7825 1545 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 7975 1675 50  0001 C CNN
+F 3 "" H 7975 1675 50  0001 C CNN
+	1    7975 1675
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R8
+U 1 0 80905056
+P 7975 2375
+F 0 "R8" H 7825 2434 59  0000 L BNN
+F 1 "330" H 7825 2245 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 7975 2375 50  0001 C CNN
+F 3 "" H 7975 2375 50  0001 C CNN
+	1    7975 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R9
+U 1 0 92F88B81
+P 7975 3075
+F 0 "R9" H 7825 3134 59  0000 L BNN
+F 1 "330" H 7825 2945 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 7975 3075 50  0001 C CNN
+F 3 "" H 7975 3075 50  0001 C CNN
+	1    7975 3075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R10
+U 1 0 70B5946A
+P 7975 3775
+F 0 "R10" H 7825 3834 59  0000 L BNN
+F 1 "330" H 7825 3645 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 7975 3775 50  0001 C CNN
+F 3 "" H 7975 3775 50  0001 C CNN
+	1    7975 3775
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PC817 OK1
+U 1 0 F7C36F66
+P 9575 1075
+F 0 "OK1" H 9300 1300 59  0000 L BNN
+F 1 "TLP621" H 9300 775 59  0000 L BNN
+F 2 "HeadphoneSwitch:DIL04" H 9575 1075 50  0001 C CNN
+F 3 "" H 9575 1075 50  0001 C CNN
+	1    9575 1075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PC817 OK2
+U 1 0 DB9FCB7F
+P 9575 1775
+F 0 "OK2" H 9300 2000 59  0000 L BNN
+F 1 "TLP621" H 9300 1475 59  0000 L BNN
+F 2 "HeadphoneSwitch:DIL04" H 9575 1775 50  0001 C CNN
+F 3 "" H 9575 1775 50  0001 C CNN
+	1    9575 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PC817 OK3
+U 1 0 39279F06
+P 9575 2475
+F 0 "OK3" H 9300 2700 59  0000 L BNN
+F 1 "TLP621" H 9300 2175 59  0000 L BNN
+F 2 "HeadphoneSwitch:DIL04" H 9575 2475 50  0001 C CNN
+F 3 "" H 9575 2475 50  0001 C CNN
+	1    9575 2475
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PC817 OK4
+U 1 0 8E083EC6
+P 9575 3175
+F 0 "OK4" H 9300 3400 59  0000 L BNN
+F 1 "TLP621" H 9300 2875 59  0000 L BNN
+F 2 "HeadphoneSwitch:DIL04" H 9575 3175 50  0001 C CNN
+F 3 "" H 9575 3175 50  0001 C CNN
+	1    9575 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PC817 OK5
+U 1 0 B1EAC984
+P 9575 3875
+F 0 "OK5" H 9300 4100 59  0000 L BNN
+F 1 "TLP621" H 9300 3575 59  0000 L BNN
+F 2 "HeadphoneSwitch:DIL04" H 9575 3875 50  0001 C CNN
+F 3 "" H 9575 3875 50  0001 C CNN
+	1    9575 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PINHD-1X10 JP10
+U 1 0 41888FB0
+P 11075 1375
+F 0 "JP10" H 10825 1900 59  0000 L BNN
+F 1 "Isolate port" H 10825 675 59  0000 L BNN
+F 2 "HeadphoneSwitch:1X10" H 11075 1375 50  0001 C CNN
+F 3 "" H 11075 1375 50  0001 C CNN
+	1    11075 1375
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R3
+U 1 0 2A684572
+P 3900 4150
+F 0 "R3" H 3750 4209 59  0000 L BNN
+F 1 "10K" H 3750 4020 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 3900 4150 50  0001 C CNN
+F 3 "" H 3900 4150 50  0001 C CNN
+	1    3900 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R4
+U 1 0 30FCCEAE
+P 4800 4150
+F 0 "R4" H 4650 4209 59  0000 L BNN
+F 1 "10K" H 4650 4020 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 4800 4150 50  0001 C CNN
+F 3 "" H 4800 4150 50  0001 C CNN
+	1    4800 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:R-US_0207_7 R5
+U 1 0 40871C63
+P 5700 4150
+F 0 "R5" H 5550 4209 59  0000 L BNN
+F 1 "10K" H 5550 4020 59  0000 L BNN
+F 2 "HeadphoneSwitch:0207_7" H 5700 4150 50  0001 C CNN
+F 3 "" H 5700 4150 50  0001 C CNN
+	1    5700 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PINHD-1X6 JP8
+U 1 0 441F3F75
+P 2400 4750
+F 0 "JP8" H 2150 5175 59  0000 L BNN
+F 1 "Force Switch" H 2150 4350 59  0000 L BNN
+F 2 "HeadphoneSwitch:1X06" H 2400 4750 50  0001 C CNN
+F 3 "" H 2400 4750 50  0001 C CNN
+	1    2400 4750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:AE-PCA9306 IC1
+U 1 0 22F7723E
+P 2050 2775
+F 0 "IC1" H 1650 3225 59  0000 L BNN
+F 1 "AE-PCA9306" H 2050 2775 50  0001 C CNN
+F 2 "HeadphoneSwitch:DIL8" H 2050 2775 50  0001 C CNN
+F 3 "" H 2050 2775 50  0001 C CNN
+	1    2050 2775
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:+3V3 #+3V033
+U 1 0 B7CA437E
+P 1350 2075
+F 0 "#+3V033" H 1350 2075 50  0001 C CNN
+F 1 "+3V3" V 1250 1875 59  0000 L BNN
+F 2 "" H 1350 2075 50  0001 C CNN
+F 3 "" H 1350 2075 50  0001 C CNN
+	1    1350 2075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PINHD-1X4 JP7
+U 1 0 E1C363F9
+P 600 2775
+F 0 "JP7" H 350 3100 59  0000 L BNN
+F 1 "I2C LCD" H 350 2475 59  0000 L BNN
+F 2 "HeadphoneSwitch:1X04" H 600 2775 50  0001 C CNN
+F 3 "" H 600 2775 50  0001 C CNN
+	1    600  2775
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:+3V3 #+3V032
+U 1 0 35B0BA16
+P 1000 2075
+F 0 "#+3V032" H 1000 2075 50  0001 C CNN
+F 1 "+3V3" V 900 1875 59  0000 L BNN
+F 2 "" H 1000 2075 50  0001 C CNN
+F 3 "" H 1000 2075 50  0001 C CNN
+	1    1000 2075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD12
+U 1 0 69FEE9F2
+P 5675 1475
+F 0 "PAD12" H 5225 1450 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 1475 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 1475 50  0001 C CNN
+F 3 "" H 5675 1475 50  0001 C CNN
+	1    5675 1475
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD10
+U 1 0 E12ED42C
+P 5675 2475
+F 0 "PAD10" H 5225 2450 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 2475 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 2475 50  0001 C CNN
+F 3 "" H 5675 2475 50  0001 C CNN
+	1    5675 2475
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD9
+U 1 0 DBF25510
+P 5675 2575
+F 0 "PAD9" H 5275 2550 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 2575 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 2575 50  0001 C CNN
+F 3 "" H 5675 2575 50  0001 C CNN
+	1    5675 2575
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD8
+U 1 0 783DD497
+P 5675 2675
+F 0 "PAD8" H 5275 2650 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 2675 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 2675 50  0001 C CNN
+F 3 "" H 5675 2675 50  0001 C CNN
+	1    5675 2675
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD7
+U 1 0 3E17184E
+P 5675 2775
+F 0 "PAD7" H 5275 2750 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 2775 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 2775 50  0001 C CNN
+F 3 "" H 5675 2775 50  0001 C CNN
+	1    5675 2775
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:PINHD-1X2 JP9
+U 1 0 B025A67D
+P 1225 6250
+F 0 "JP9" H 975 6475 59  0000 L BNN
+F 1 "RESET" H 975 6050 59  0000 L BNN
+F 2 "HeadphoneSwitch:1X02" H 1225 6250 50  0001 C CNN
+F 3 "" H 1225 6250 50  0001 C CNN
+	1    1225 6250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD13
+U 1 0 3F19B9F5
+P 5625 5325
+F 0 "PAD13" H 5525 5425 59  0000 L BNN
+F 1 "1,6_0,9" H 5625 5325 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5625 5325 50  0001 C CNN
+F 3 "" H 5625 5325 50  0001 C CNN
+	1    5625 5325
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD18
+U 1 0 6AB0F2E9
+P 6175 5325
+F 0 "PAD18" H 6075 5425 59  0000 L BNN
+F 1 "1,6_0,9" H 6175 5325 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6175 5325 50  0001 C CNN
+F 3 "" H 6175 5325 50  0001 C CNN
+	1    6175 5325
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD23
+U 1 0 769F7BCE
+P 6675 5325
+F 0 "PAD23" H 6575 5425 59  0000 L BNN
+F 1 "1,6_0,9" H 6675 5325 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6675 5325 50  0001 C CNN
+F 3 "" H 6675 5325 50  0001 C CNN
+	1    6675 5325
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD28
+U 1 0 B192706F
+P 7225 5325
+F 0 "PAD28" H 7125 5425 59  0000 L BNN
+F 1 "1,6_0,9" H 7225 5325 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7225 5325 50  0001 C CNN
+F 3 "" H 7225 5325 50  0001 C CNN
+	1    7225 5325
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD33
+U 1 0 4F222367
+P 7725 5325
+F 0 "PAD33" H 7625 5425 59  0000 L BNN
+F 1 "1,6_0,9" H 7725 5325 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7725 5325 50  0001 C CNN
+F 3 "" H 7725 5325 50  0001 C CNN
+	1    7725 5325
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD14
+U 1 0 223137A8
+P 5600 5825
+F 0 "PAD14" H 5500 5925 59  0000 L BNN
+F 1 "1,6_0,9" H 5600 5825 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5600 5825 50  0001 C CNN
+F 3 "" H 5600 5825 50  0001 C CNN
+	1    5600 5825
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD19
+U 1 0 30C1C75F
+P 6150 5825
+F 0 "PAD19" H 6050 5925 59  0000 L BNN
+F 1 "1,6_0,9" H 6150 5825 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6150 5825 50  0001 C CNN
+F 3 "" H 6150 5825 50  0001 C CNN
+	1    6150 5825
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD24
+U 1 0 FF21A3F7
+P 6650 5825
+F 0 "PAD24" H 6550 5925 59  0000 L BNN
+F 1 "1,6_0,9" H 6650 5825 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6650 5825 50  0001 C CNN
+F 3 "" H 6650 5825 50  0001 C CNN
+	1    6650 5825
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD29
+U 1 0 EACE85C4
+P 7200 5825
+F 0 "PAD29" H 7100 5925 59  0000 L BNN
+F 1 "1,6_0,9" H 7200 5825 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7200 5825 50  0001 C CNN
+F 3 "" H 7200 5825 50  0001 C CNN
+	1    7200 5825
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD34
+U 1 0 2DCFA96A
+P 7700 5825
+F 0 "PAD34" H 7600 5925 59  0000 L BNN
+F 1 "1,6_0,9" H 7700 5825 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7700 5825 50  0001 C CNN
+F 3 "" H 7700 5825 50  0001 C CNN
+	1    7700 5825
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD15
+U 1 0 6C5E62BD
+P 5600 6375
+F 0 "PAD15" H 5500 6475 59  0000 L BNN
+F 1 "1,6_0,9" H 5600 6375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5600 6375 50  0001 C CNN
+F 3 "" H 5600 6375 50  0001 C CNN
+	1    5600 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD20
+U 1 0 0968B0BC
+P 6150 6375
+F 0 "PAD20" H 6050 6475 59  0000 L BNN
+F 1 "1,6_0,9" H 6150 6375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6150 6375 50  0001 C CNN
+F 3 "" H 6150 6375 50  0001 C CNN
+	1    6150 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD25
+U 1 0 F556D5C5
+P 6650 6375
+F 0 "PAD25" H 6550 6475 59  0000 L BNN
+F 1 "1,6_0,9" H 6650 6375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 6650 6375 50  0001 C CNN
+F 3 "" H 6650 6375 50  0001 C CNN
+	1    6650 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD30
+U 1 0 F3D61D0B
+P 7200 6375
+F 0 "PAD30" H 7100 6475 59  0000 L BNN
+F 1 "1,6_0,9" H 7200 6375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7200 6375 50  0001 C CNN
+F 3 "" H 7200 6375 50  0001 C CNN
+	1    7200 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD35
+U 1 0 4D4D56D6
+P 7700 6375
+F 0 "PAD35" H 7600 6475 59  0000 L BNN
+F 1 "1,6_0,9" H 7700 6375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 7700 6375 50  0001 C CNN
+F 3 "" H 7700 6375 50  0001 C CNN
+	1    7700 6375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD16
+U 1 0 A53506E0
+P 8275 5525
+F 0 "PAD16" H 8175 5625 59  0000 L BNN
+F 1 "1,6_0,9" H 8275 5525 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 8275 5525 50  0001 C CNN
+F 3 "" H 8275 5525 50  0001 C CNN
+	1    8275 5525
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD21
+U 1 0 62D787DF
+P 8825 5525
+F 0 "PAD21" H 8725 5625 59  0000 L BNN
+F 1 "1,6_0,9" H 8825 5525 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 8825 5525 50  0001 C CNN
+F 3 "" H 8825 5525 50  0001 C CNN
+	1    8825 5525
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD26
+U 1 0 E9034875
+P 9325 5525
+F 0 "PAD26" H 9225 5625 59  0000 L BNN
+F 1 "1,6_0,9" H 9325 5525 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 9325 5525 50  0001 C CNN
+F 3 "" H 9325 5525 50  0001 C CNN
+	1    9325 5525
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD31
+U 1 0 E6DDDCCE
+P 9875 5525
+F 0 "PAD31" H 9775 5625 59  0000 L BNN
+F 1 "1,6_0,9" H 9875 5525 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 9875 5525 50  0001 C CNN
+F 3 "" H 9875 5525 50  0001 C CNN
+	1    9875 5525
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD36
+U 1 0 B973C2AC
+P 10375 5525
+F 0 "PAD36" H 10275 5625 59  0000 L BNN
+F 1 "1,6_0,9" H 10375 5525 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 10375 5525 50  0001 C CNN
+F 3 "" H 10375 5525 50  0001 C CNN
+	1    10375 5525
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD17
+U 1 0 E3D06BA2
+P 8275 6075
+F 0 "PAD17" H 8175 6175 59  0000 L BNN
+F 1 "1,6_0,9" H 8275 6075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 8275 6075 50  0001 C CNN
+F 3 "" H 8275 6075 50  0001 C CNN
+	1    8275 6075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD22
+U 1 0 87516057
+P 8825 6075
+F 0 "PAD22" H 8725 6175 59  0000 L BNN
+F 1 "1,6_0,9" H 8825 6075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 8825 6075 50  0001 C CNN
+F 3 "" H 8825 6075 50  0001 C CNN
+	1    8825 6075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD27
+U 1 0 0C30A53F
+P 9325 6075
+F 0 "PAD27" H 9225 6175 59  0000 L BNN
+F 1 "1,6_0,9" H 9325 6075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 9325 6075 50  0001 C CNN
+F 3 "" H 9325 6075 50  0001 C CNN
+	1    9325 6075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD32
+U 1 0 94032025
+P 9875 6075
+F 0 "PAD32" H 9775 6175 59  0000 L BNN
+F 1 "1,6_0,9" H 9875 6075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 9875 6075 50  0001 C CNN
+F 3 "" H 9875 6075 50  0001 C CNN
+	1    9875 6075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD37
+U 1 0 9277F9E5
+P 10375 6075
+F 0 "PAD37" H 10275 6175 59  0000 L BNN
+F 1 "1,6_0,9" H 10375 6075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 10375 6075 50  0001 C CNN
+F 3 "" H 10375 6075 50  0001 C CNN
+	1    10375 6075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD38
+U 1 0 6A128832
+P 10800 5475
+F 0 "PAD38" H 10700 5575 59  0000 L BNN
+F 1 "1,6_0,9" H 10800 5475 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 10800 5475 50  0001 C CNN
+F 3 "" H 10800 5475 50  0001 C CNN
+	1    10800 5475
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD39
+U 1 0 CB90A687
+P 10800 5975
+F 0 "PAD39" H 10700 6075 59  0000 L BNN
+F 1 "1,6_0,9" H 10800 5975 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 10800 5975 50  0001 C CNN
+F 3 "" H 10800 5975 50  0001 C CNN
+	1    10800 5975
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD11
+U 1 0 94FEA57A
+P 5675 2375
+F 0 "PAD11" H 5225 2350 59  0000 L BNN
+F 1 "1,6_0,9" H 5675 2375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5675 2375 50  0001 C CNN
+F 3 "" H 5675 2375 50  0001 C CNN
+	1    5675 2375
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD2
+U 1 0 3C2A47BC
+P 1250 3075
+F 0 "PAD2" H 1150 3175 59  0000 L BNN
+F 1 "1,6_0,9" H 1250 3075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 1250 3075 50  0001 C CNN
+F 3 "" H 1250 3075 50  0001 C CNN
+	1    1250 3075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD3
+U 1 0 9A22E34B
+P 3325 2475
+F 0 "PAD3" H 3225 2575 59  0000 L BNN
+F 1 "1,6_0,9" H 3325 2475 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 3325 2475 50  0001 C CNN
+F 3 "" H 3325 2475 50  0001 C CNN
+	1    3325 2475
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD4
+U 1 0 2256D15B
+P 3325 2675
+F 0 "PAD4" H 3225 2775 59  0000 L BNN
+F 1 "1,6_0,9" H 3325 2675 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 3325 2675 50  0001 C CNN
+F 3 "" H 3325 2675 50  0001 C CNN
+	1    3325 2675
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD5
+U 1 0 26318524
+P 3325 2875
+F 0 "PAD5" H 3225 2975 59  0000 L BNN
+F 1 "1,6_0,9" H 3325 2875 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 3325 2875 50  0001 C CNN
+F 3 "" H 3325 2875 50  0001 C CNN
+	1    3325 2875
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD6
+U 1 0 6CB106E6
+P 3325 3075
+F 0 "PAD6" H 3225 3175 59  0000 L BNN
+F 1 "1,6_0,9" H 3325 3075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 3325 3075 50  0001 C CNN
+F 3 "" H 3325 3075 50  0001 C CNN
+	1    3325 3075
+	-1   0    0    1   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:EMIFILTER DSS62
+U 1 0 84643F1B
+P 3000 4450
+F 0 "DSS62" H 2900 4550 47  0000 L BNN
+F 1 "EMIFILTER" H 2850 4650 47  0000 L BNN
+F 2 "HeadphoneSwitch:EMIFILTER" H 3000 4450 50  0001 C CNN
+F 3 "" H 3000 4450 50  0001 C CNN
+	1    3000 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:EMIFILTER DSS63
+U 1 0 C159E113
+P 4200 4650
+F 0 "DSS63" H 4100 4750 47  0000 L BNN
+F 1 "EMIFILTER" H 4050 4900 47  0000 L BNN
+F 2 "HeadphoneSwitch:EMIFILTER" H 4200 4650 50  0001 C CNN
+F 3 "" H 4200 4650 50  0001 C CNN
+	1    4200 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:EMIFILTER DSS64
+U 1 0 D4548F29
+P 4600 4850
+F 0 "DSS64" H 4500 4950 47  0000 L BNN
+F 1 "EMIFILTER" H 4800 4900 47  0000 L BNN
+F 2 "HeadphoneSwitch:EMIFILTER" H 4600 4850 50  0001 C CNN
+F 3 "" H 4600 4850 50  0001 C CNN
+	1    4600 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:EMIFILTER DSS65
+U 1 0 73DE5501
+P 1975 6150
+F 0 "DSS65" H 1825 6300 47  0000 L BNN
+F 1 "EMIFILTER" H 1835 6230 47  0000 L BNN
+F 2 "HeadphoneSwitch:EMIFILTER" H 1975 6150 50  0001 C CNN
+F 3 "" H 1975 6150 50  0001 C CNN
+	1    1975 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD1
+U 1 0 BDB91568
+P 5075 875
+F 0 "PAD1" H 4775 875 59  0000 L BNN
+F 1 "1,6_0,9" H 5075 875 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 5075 875 50  0001 C CNN
+F 3 "" H 5075 875 50  0001 C CNN
+	1    5075 875 
+	0    1    1    0   
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD40
+U 1 0 DCA290F8
+P 4250 2075
+F 0 "PAD40" H 3850 2075 59  0000 L BNN
+F 1 "1,6_0,9" H 4250 2075 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 4250 2075 50  0001 C CNN
+F 3 "" H 4250 2075 50  0001 C CNN
+	1    4250 2075
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD41
+U 1 0 114AEC41
+P 4250 2175
+F 0 "PAD41" H 3850 2175 59  0000 L BNN
+F 1 "1,6_0,9" H 4250 2175 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 4250 2175 50  0001 C CNN
+F 3 "" H 4250 2175 50  0001 C CNN
+	1    4250 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD42
+U 1 0 17AF5E28
+P 4250 2275
+F 0 "PAD42" H 3850 2275 59  0000 L BNN
+F 1 "1,6_0,9" H 4250 2275 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 4250 2275 50  0001 C CNN
+F 3 "" H 4250 2275 50  0001 C CNN
+	1    4250 2275
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:1,6_0,9 PAD43
+U 1 0 E9A2B9BA
+P 4250 2375
+F 0 "PAD43" H 3850 2375 59  0000 L BNN
+F 1 "1,6_0,9" H 4250 2375 50  0001 C CNN
+F 2 "HeadphoneSwitch:1,6_0,9" H 4250 2375 50  0001 C CNN
+F 3 "" H 4250 2375 50  0001 C CNN
+	1    4250 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5BEA9C4D
+P 5425 5225
+F 0 "#FLG0101" H 5425 5300 50  0001 C CNN
+F 1 "PWR_FLAG" H 5425 5399 50  0000 C CNN
+F 2 "" H 5425 5225 50  0001 C CNN
+F 3 "~" H 5425 5225 50  0001 C CNN
+	1    5425 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5BEA9CFB
+P 5975 5225
+F 0 "#FLG0102" H 5975 5300 50  0001 C CNN
+F 1 "PWR_FLAG" H 5975 5399 50  0000 C CNN
+F 2 "" H 5975 5225 50  0001 C CNN
+F 3 "~" H 5975 5225 50  0001 C CNN
+	1    5975 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 5BEA9DA9
+P 6475 5225
+F 0 "#FLG0103" H 6475 5300 50  0001 C CNN
+F 1 "PWR_FLAG" H 6475 5399 50  0000 C CNN
+F 2 "" H 6475 5225 50  0001 C CNN
+F 3 "~" H 6475 5225 50  0001 C CNN
+	1    6475 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0104
+U 1 1 5BEA9E57
+P 7025 5225
+F 0 "#FLG0104" H 7025 5300 50  0001 C CNN
+F 1 "PWR_FLAG" H 7025 5399 50  0000 C CNN
+F 2 "" H 7025 5225 50  0001 C CNN
+F 3 "~" H 7025 5225 50  0001 C CNN
+	1    7025 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0105
+U 1 1 5BEA9F05
+P 7525 5225
+F 0 "#FLG0105" H 7525 5300 50  0001 C CNN
+F 1 "PWR_FLAG" H 7525 5399 50  0000 C CNN
+F 2 "" H 7525 5225 50  0001 C CNN
+F 3 "~" H 7525 5225 50  0001 C CNN
+	1    7525 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0106
+U 1 1 5BEF7DC5
+P 5400 5725
+F 0 "#FLG0106" H 5400 5800 50  0001 C CNN
+F 1 "PWR_FLAG" H 5400 5899 50  0000 C CNN
+F 2 "" H 5400 5725 50  0001 C CNN
+F 3 "~" H 5400 5725 50  0001 C CNN
+	1    5400 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0107
+U 1 1 5BEF7DCB
+P 5950 5725
+F 0 "#FLG0107" H 5950 5800 50  0001 C CNN
+F 1 "PWR_FLAG" H 5950 5899 50  0000 C CNN
+F 2 "" H 5950 5725 50  0001 C CNN
+F 3 "~" H 5950 5725 50  0001 C CNN
+	1    5950 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0108
+U 1 1 5BEF7DD1
+P 6450 5725
+F 0 "#FLG0108" H 6450 5800 50  0001 C CNN
+F 1 "PWR_FLAG" H 6450 5899 50  0000 C CNN
+F 2 "" H 6450 5725 50  0001 C CNN
+F 3 "~" H 6450 5725 50  0001 C CNN
+	1    6450 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0109
+U 1 1 5BEF7DD7
+P 6950 5725
+F 0 "#FLG0109" H 6950 5800 50  0001 C CNN
+F 1 "PWR_FLAG" H 6950 5899 50  0000 C CNN
+F 2 "" H 6950 5725 50  0001 C CNN
+F 3 "~" H 6950 5725 50  0001 C CNN
+	1    6950 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0110
+U 1 1 5BEF7DDD
+P 7450 5725
+F 0 "#FLG0110" H 7450 5800 50  0001 C CNN
+F 1 "PWR_FLAG" H 7450 5899 50  0000 C CNN
+F 2 "" H 7450 5725 50  0001 C CNN
+F 3 "~" H 7450 5725 50  0001 C CNN
+	1    7450 5725
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0111
+U 1 1 5BF2B463
+P 5400 6275
+F 0 "#FLG0111" H 5400 6350 50  0001 C CNN
+F 1 "PWR_FLAG" H 5400 6449 50  0000 C CNN
+F 2 "" H 5400 6275 50  0001 C CNN
+F 3 "~" H 5400 6275 50  0001 C CNN
+	1    5400 6275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0112
+U 1 1 5BF2B469
+P 5950 6275
+F 0 "#FLG0112" H 5950 6350 50  0001 C CNN
+F 1 "PWR_FLAG" H 5950 6449 50  0000 C CNN
+F 2 "" H 5950 6275 50  0001 C CNN
+F 3 "~" H 5950 6275 50  0001 C CNN
+	1    5950 6275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0113
+U 1 1 5BF2B46F
+P 6450 6275
+F 0 "#FLG0113" H 6450 6350 50  0001 C CNN
+F 1 "PWR_FLAG" H 6450 6449 50  0000 C CNN
+F 2 "" H 6450 6275 50  0001 C CNN
+F 3 "~" H 6450 6275 50  0001 C CNN
+	1    6450 6275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0114
+U 1 1 5BF2B475
+P 7000 6275
+F 0 "#FLG0114" H 7000 6350 50  0001 C CNN
+F 1 "PWR_FLAG" H 7000 6449 50  0000 C CNN
+F 2 "" H 7000 6275 50  0001 C CNN
+F 3 "~" H 7000 6275 50  0001 C CNN
+	1    7000 6275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0115
+U 1 1 5BF2B47B
+P 7500 6275
+F 0 "#FLG0115" H 7500 6350 50  0001 C CNN
+F 1 "PWR_FLAG" H 7500 6449 50  0000 C CNN
+F 2 "" H 7500 6275 50  0001 C CNN
+F 3 "~" H 7500 6275 50  0001 C CNN
+	1    7500 6275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0116
+U 1 1 5BF45100
+P 8075 5425
+F 0 "#FLG0116" H 8075 5500 50  0001 C CNN
+F 1 "PWR_FLAG" H 8075 5599 50  0000 C CNN
+F 2 "" H 8075 5425 50  0001 C CNN
+F 3 "~" H 8075 5425 50  0001 C CNN
+	1    8075 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0117
+U 1 1 5BF45106
+P 8625 5425
+F 0 "#FLG0117" H 8625 5500 50  0001 C CNN
+F 1 "PWR_FLAG" H 8625 5599 50  0000 C CNN
+F 2 "" H 8625 5425 50  0001 C CNN
+F 3 "~" H 8625 5425 50  0001 C CNN
+	1    8625 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0118
+U 1 1 5BF4510C
+P 9125 5425
+F 0 "#FLG0118" H 9125 5500 50  0001 C CNN
+F 1 "PWR_FLAG" H 9125 5599 50  0000 C CNN
+F 2 "" H 9125 5425 50  0001 C CNN
+F 3 "~" H 9125 5425 50  0001 C CNN
+	1    9125 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0119
+U 1 1 5BF45112
+P 9675 5425
+F 0 "#FLG0119" H 9675 5500 50  0001 C CNN
+F 1 "PWR_FLAG" H 9675 5599 50  0000 C CNN
+F 2 "" H 9675 5425 50  0001 C CNN
+F 3 "~" H 9675 5425 50  0001 C CNN
+	1    9675 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0120
+U 1 1 5BF45118
+P 10175 5425
+F 0 "#FLG0120" H 10175 5500 50  0001 C CNN
+F 1 "PWR_FLAG" H 10175 5599 50  0000 C CNN
+F 2 "" H 10175 5425 50  0001 C CNN
+F 3 "~" H 10175 5425 50  0001 C CNN
+	1    10175 5425
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0121
+U 1 1 5BF4B7CC
+P 8075 5975
+F 0 "#FLG0121" H 8075 6050 50  0001 C CNN
+F 1 "PWR_FLAG" H 8075 6149 50  0000 C CNN
+F 2 "" H 8075 5975 50  0001 C CNN
+F 3 "~" H 8075 5975 50  0001 C CNN
+	1    8075 5975
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0122
+U 1 1 5BF4B7D2
+P 8625 5975
+F 0 "#FLG0122" H 8625 6050 50  0001 C CNN
+F 1 "PWR_FLAG" H 8625 6149 50  0000 C CNN
+F 2 "" H 8625 5975 50  0001 C CNN
+F 3 "~" H 8625 5975 50  0001 C CNN
+	1    8625 5975
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0123
+U 1 1 5BF4B7D8
+P 9125 5975
+F 0 "#FLG0123" H 9125 6050 50  0001 C CNN
+F 1 "PWR_FLAG" H 9125 6149 50  0000 C CNN
+F 2 "" H 9125 5975 50  0001 C CNN
+F 3 "~" H 9125 5975 50  0001 C CNN
+	1    9125 5975
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0124
+U 1 1 5BF4B7DE
+P 9675 5975
+F 0 "#FLG0124" H 9675 6050 50  0001 C CNN
+F 1 "PWR_FLAG" H 9675 6149 50  0000 C CNN
+F 2 "" H 9675 5975 50  0001 C CNN
+F 3 "~" H 9675 5975 50  0001 C CNN
+	1    9675 5975
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0125
+U 1 1 5BF4B7E4
+P 10175 5975
+F 0 "#FLG0125" H 10175 6050 50  0001 C CNN
+F 1 "PWR_FLAG" H 10175 6149 50  0000 C CNN
+F 2 "" H 10175 5975 50  0001 C CNN
+F 3 "~" H 10175 5975 50  0001 C CNN
+	1    10175 5975
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5425 5225 5425 5325
+Wire Wire Line
+	5425 5325 5525 5325
+Wire Wire Line
+	5975 5225 5975 5325
+Wire Wire Line
+	5975 5325 6075 5325
+Wire Wire Line
+	6475 5225 6475 5325
+Wire Wire Line
+	6475 5325 6575 5325
+Wire Wire Line
+	7025 5225 7025 5325
+Wire Wire Line
+	7025 5325 7125 5325
+Wire Wire Line
+	7525 5225 7525 5325
+Wire Wire Line
+	7525 5325 7625 5325
+Wire Wire Line
+	5400 5725 5400 5825
+Wire Wire Line
+	5400 5825 5500 5825
+Wire Wire Line
+	5950 5725 5950 5825
+Wire Wire Line
+	5950 5825 6050 5825
+Wire Wire Line
+	6450 5725 6450 5825
+Wire Wire Line
+	6450 5825 6550 5825
+Wire Wire Line
+	6950 5725 6950 5825
+Wire Wire Line
+	6950 5825 7100 5825
+Wire Wire Line
+	7450 5725 7450 5825
+Wire Wire Line
+	7450 5825 7600 5825
+Wire Wire Line
+	5400 6275 5400 6375
+Wire Wire Line
+	5400 6375 5500 6375
+Wire Wire Line
+	5950 6275 5950 6375
+Wire Wire Line
+	5950 6375 6050 6375
+Wire Wire Line
+	6450 6275 6450 6375
+Wire Wire Line
+	6450 6375 6550 6375
+Wire Wire Line
+	7000 6275 7000 6375
+Wire Wire Line
+	7000 6375 7100 6375
+Wire Wire Line
+	7500 6275 7500 6375
+Wire Wire Line
+	7500 6375 7600 6375
+Wire Wire Line
+	8075 5425 8075 5525
+Wire Wire Line
+	8075 5525 8175 5525
+Wire Wire Line
+	8625 5425 8625 5525
+Wire Wire Line
+	8625 5525 8725 5525
+Wire Wire Line
+	9125 5425 9125 5525
+Wire Wire Line
+	9125 5525 9225 5525
+Wire Wire Line
+	9675 5425 9675 5525
+Wire Wire Line
+	9675 5525 9775 5525
+Wire Wire Line
+	10175 5425 10175 5525
+Wire Wire Line
+	10175 5525 10275 5525
+Wire Wire Line
+	8075 5975 8075 6075
+Wire Wire Line
+	8075 6075 8175 6075
+Wire Wire Line
+	8625 5975 8625 6075
+Wire Wire Line
+	8625 6075 8725 6075
+Wire Wire Line
+	9125 5975 9125 6075
+Wire Wire Line
+	9125 6075 9225 6075
+Wire Wire Line
+	9675 5975 9675 6075
+Wire Wire Line
+	9675 6075 9775 6075
+Wire Wire Line
+	10175 5975 10175 6075
+Wire Wire Line
+	10175 6075 10275 6075
+Connection ~ 2750 3075
+Wire Wire Line
+	2175 6150 2825 6150
+Text Label 2375 6150 0    50   ~ 0
+RESET
+Wire Wire Line
+	4475 2575 3575 2575
+Wire Wire Line
+	1300 3325 1500 3325
+Wire Wire Line
+	1500 3325 1500 3075
+Connection ~ 1500 3075
+Wire Wire Line
+	1500 3075 1350 3075
+Wire Wire Line
+	4475 1475 4075 1475
+Text GLabel 4075 1475 0    50   Input ~ 0
+RESET
+Text GLabel 2825 6150 2    50   Input ~ 0
+RESET
+Text Label 4800 4550 0    50   ~ 0
+D3
+Text Label 3900 4350 0    50   ~ 0
+D2
+$Comp
+L MCU_Module:Arduino_UNO_R3 A1
+U 1 1 5BE7CEE3
+P 4975 2075
+F 0 "A1" V 5050 1825 50  0000 C CNN
+F 1 "Arduino_UNO_R3" V 4950 2000 50  0000 C CNN
+F 2 "Module:Arduino_UNO_R3" H 5125 1025 50  0001 L CNN
+F 3 "https://www.arduino.cc/en/Main/arduinoBoardUno" H 4775 3125 50  0001 C CNN
+	1    4975 2075
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 4350 5700 4850
+Wire Wire Line
+	5475 1575 6925 1575
+Wire Wire Line
+	5475 1675 6925 1675
+Wire Wire Line
+	5475 1775 6925 1775
+Wire Wire Line
+	5475 1875 6925 1875
+Wire Wire Line
+	5475 1975 6925 1975
+Wire Wire Line
+	5475 2075 6925 2075
+Wire Wire Line
+	5475 2175 6925 2175
+Wire Wire Line
+	5475 2275 6925 2275
+Entry Wire Line
+	6925 1575 7025 1675
+Entry Wire Line
+	6925 1675 7025 1775
+Entry Wire Line
+	6925 1775 7025 1875
+Entry Wire Line
+	6925 1875 7025 1975
+Entry Wire Line
+	6925 1975 7025 2075
+Entry Wire Line
+	6925 2075 7025 2175
+Entry Wire Line
+	6925 2175 7025 2275
+Entry Wire Line
+	6925 2275 7025 2375
+Wire Wire Line
+	4350 2075 4475 2075
+Wire Wire Line
+	4475 2175 4350 2175
+Wire Wire Line
+	4350 2275 4475 2275
+Wire Wire Line
+	4475 2375 4350 2375
+NoConn ~ 4475 2775
+NoConn ~ 4475 2875
+NoConn ~ 4475 1675
+NoConn ~ 4475 1875
+Wire Wire Line
+	4875 950  4875 1075
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 5C128C6C
+P 4875 950
+F 0 "#PWR0103" H 4875 800 50  0001 C CNN
+F 1 "+3.3V" V 4875 1200 50  0000 C CNN
+F 2 "" H 4875 950 50  0001 C CNN
+F 3 "" H 4875 950 50  0001 C CNN
+	1    4875 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4775 1075 4775 950 
+Wire Wire Line
+	3900 3950 3900 3875
+Wire Wire Line
+	4800 3850 4800 3950
+Wire Wire Line
+	5700 3950 5700 3850
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0101
+U 1 1 5C18CAA1
+P 4600 5450
+F 0 "#SUPPLY0101" H 4600 5450 50  0001 C CNN
+F 1 "GND1" H 4600 5320 59  0000 C CNN
+F 2 "" H 4600 5450 50  0001 C CNN
+F 3 "" H 4600 5450 50  0001 C CNN
+	1    4600 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0103
+U 1 1 5C19D161
+P 3300 5450
+F 0 "#SUPPLY0103" H 3300 5450 50  0001 C CNN
+F 1 "GND1" H 3300 5320 59  0000 C CNN
+F 2 "" H 3300 5450 50  0001 C CNN
+F 3 "" H 3300 5450 50  0001 C CNN
+	1    3300 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0104
+U 1 1 5C1A6E66
+P 3600 5450
+F 0 "#SUPPLY0104" H 3600 5450 50  0001 C CNN
+F 1 "GND1" H 3600 5320 59  0000 C CNN
+F 2 "" H 3600 5450 50  0001 C CNN
+F 3 "" H 3600 5450 50  0001 C CNN
+	1    3600 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0105
+U 1 1 5C1B0B1F
+P 3900 5450
+F 0 "#SUPPLY0105" H 3900 5450 50  0001 C CNN
+F 1 "GND1" H 3900 5320 59  0000 C CNN
+F 2 "" H 3900 5450 50  0001 C CNN
+F 3 "" H 3900 5450 50  0001 C CNN
+	1    3900 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0106
+U 1 1 5C1BA7D8
+P 4200 5450
+F 0 "#SUPPLY0106" H 4200 5450 50  0001 C CNN
+F 1 "GND1" H 4200 5320 59  0000 C CNN
+F 2 "" H 4200 5450 50  0001 C CNN
+F 3 "" H 4200 5450 50  0001 C CNN
+	1    4200 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0107
+U 1 1 5C1F5421
+P 3000 5450
+F 0 "#SUPPLY0107" H 3000 5450 50  0001 C CNN
+F 1 "GND1" H 3000 5320 59  0000 C CNN
+F 2 "" H 3000 5450 50  0001 C CNN
+F 3 "" H 3000 5450 50  0001 C CNN
+	1    3000 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0108
+U 1 1 5C1FF2CB
+P 4975 3375
+F 0 "#SUPPLY0108" H 4975 3375 50  0001 C CNN
+F 1 "GND1" H 4975 3245 59  0000 C CNN
+F 2 "" H 4975 3375 50  0001 C CNN
+F 3 "" H 4975 3375 50  0001 C CNN
+	1    4975 3375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4875 3175 4875 3275
+Wire Wire Line
+	4875 3275 4975 3275
+Wire Wire Line
+	4975 3275 5075 3275
+Wire Wire Line
+	5075 3275 5075 3175
+Connection ~ 4975 3275
+Wire Wire Line
+	4975 3175 4975 3275
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0110
+U 1 1 5C293193
+P 1675 6650
+F 0 "#SUPPLY0110" H 1675 6650 50  0001 C CNN
+F 1 "GND1" H 1675 6520 59  0000 C CNN
+F 2 "" H 1675 6650 50  0001 C CNN
+F 3 "" H 1675 6650 50  0001 C CNN
+	1    1675 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0111
+U 1 1 5C29D42B
+P 1975 6650
+F 0 "#SUPPLY0111" H 1975 6650 50  0001 C CNN
+F 1 "GND1" H 1975 6520 59  0000 C CNN
+F 2 "" H 1975 6650 50  0001 C CNN
+F 3 "" H 1975 6650 50  0001 C CNN
+	1    1975 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0112
+U 1 1 5C2D042E
+P 10600 6275
+F 0 "#SUPPLY0112" H 10600 6275 50  0001 C CNN
+F 1 "GND1" H 10600 6145 59  0000 C CNN
+F 2 "" H 10600 6275 50  0001 C CNN
+F 3 "" H 10600 6275 50  0001 C CNN
+	1    10600 6275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10600 5975 10600 6175
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0113
+U 1 1 5C2FAE14
+P 9075 4375
+F 0 "#SUPPLY0113" H 9075 4375 50  0001 C CNN
+F 1 "GND1" H 9075 4245 59  0000 C CNN
+F 2 "" H 9075 4375 50  0001 C CNN
+F 3 "" H 9075 4375 50  0001 C CNN
+	1    9075 4375
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	7025 1500 7125 1400
+Entry Wire Line
+	7025 1775 7125 1675
+Entry Wire Line
+	7025 2475 7125 2375
+Entry Wire Line
+	7025 3175 7125 3075
+Entry Wire Line
+	7025 4350 6925 4450
+Entry Wire Line
+	7025 4550 6925 4650
+Entry Wire Line
+	7025 4750 6925 4850
+Wire Wire Line
+	3900 4450 6925 4450
+Connection ~ 3900 4450
+Wire Wire Line
+	4800 4650 6925 4650
+Connection ~ 4800 4650
+Wire Wire Line
+	5700 4850 6925 4850
+Connection ~ 5700 4850
+Text Label 6600 4450 0    50   ~ 0
+D2
+Text Label 6600 4650 0    50   ~ 0
+D3
+Text Label 6600 4850 0    50   ~ 0
+D1
+Wire Wire Line
+	7125 975  7125 1400
+Wire Wire Line
+	7125 975  7775 975 
+Wire Wire Line
+	7775 1675 7125 1675
+Wire Wire Line
+	7775 2375 7125 2375
+Wire Wire Line
+	7775 3075 7125 3075
+Text Label 7275 975  0    50   ~ 0
+D4
+Text Label 7275 1675 0    50   ~ 0
+D5
+Text Label 7275 2375 0    50   ~ 0
+D6
+Text Label 7275 3075 0    50   ~ 0
+D7
+Entry Wire Line
+	7025 3875 7125 3775
+Wire Wire Line
+	7775 3775 7125 3775
+Text Label 7275 3775 0    50   ~ 0
+D8
+Text Label 6875 1275 0    50   ~ 0
+D[1..8]
+Text Label 6225 1575 0    50   ~ 0
+D1
+Text Label 6425 1675 0    50   ~ 0
+D2
+Text Label 6625 1775 0    50   ~ 0
+D3
+Text Label 6225 1875 0    50   ~ 0
+D4
+Text Label 6475 1975 0    50   ~ 0
+D5
+Text Label 6675 2075 0    50   ~ 0
+D6
+Text Label 6275 2175 0    50   ~ 0
+D7
+Text Label 6525 2275 0    50   ~ 0
+D8
+$Comp
+L power:PWR_FLAG #FLG0126
+U 1 1 5C46B6AB
+P 5350 975
+F 0 "#FLG0126" H 5350 1050 50  0001 C CNN
+F 1 "PWR_FLAG" H 5625 1050 50  0000 C CNN
+F 2 "" H 5350 975 50  0001 C CNN
+F 3 "~" H 5350 975 50  0001 C CNN
+	1    5350 975 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 975  5075 1000
+Connection ~ 5075 1000
+Wire Wire Line
+	5075 1000 5075 1075
+Wire Wire Line
+	3775 2475 4475 2475
+Wire Wire Line
+	3000 5350 3000 4650
+Wire Wire Line
+	2500 4650 2850 4650
+Wire Wire Line
+	2850 4650 2850 5075
+Wire Wire Line
+	2850 5075 4000 5075
+Wire Wire Line
+	4000 5075 4000 4650
+Wire Wire Line
+	4200 5350 4200 4850
+Wire Wire Line
+	2500 4850 4125 4850
+Wire Wire Line
+	4125 4850 4125 4900
+Wire Wire Line
+	4125 4900 4300 4900
+Wire Wire Line
+	4300 4900 4300 4850
+Wire Wire Line
+	4300 4850 4400 4850
+Wire Wire Line
+	2550 2675 3025 2675
+Wire Wire Line
+	2550 2875 3000 2875
+Wire Wire Line
+	2750 3075 3225 3075
+Wire Wire Line
+	3575 2575 3575 2525
+Wire Wire Line
+	3575 2525 3025 2525
+Wire Wire Line
+	3025 2525 3025 2675
+Connection ~ 3025 2675
+Wire Wire Line
+	3025 2675 3225 2675
+Wire Wire Line
+	3775 2475 3775 2750
+Wire Wire Line
+	3775 2750 3000 2750
+Wire Wire Line
+	3000 2750 3000 2875
+Connection ~ 3000 2875
+Wire Wire Line
+	3000 2875 3225 2875
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0102
+U 1 1 5C12E979
+P 1000 3375
+F 0 "#SUPPLY0102" H 1000 3375 50  0001 C CNN
+F 1 "GND1" H 1000 3245 59  0000 C CNN
+F 2 "" H 1000 3375 50  0001 C CNN
+F 3 "" H 1000 3375 50  0001 C CNN
+	1    1000 3375
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0114
+U 1 1 5C1A1C00
+P 2750 3400
+F 0 "#SUPPLY0114" H 2750 3400 50  0001 C CNN
+F 1 "GND1" H 2750 3270 59  0000 C CNN
+F 2 "" H 2750 3400 50  0001 C CNN
+F 3 "" H 2750 3400 50  0001 C CNN
+	1    2750 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0127
+U 1 1 5C1AE82F
+P 1300 3325
+F 0 "#FLG0127" H 1300 3400 50  0001 C CNN
+F 1 "PWR_FLAG" H 1300 3499 50  0000 C CNN
+F 2 "" H 1300 3325 50  0001 C CNN
+F 3 "~" H 1300 3325 50  0001 C CNN
+	1    1300 3325
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0128
+U 1 1 5C1BB4A5
+P 1375 4250
+F 0 "#FLG0128" H 1375 4325 50  0001 C CNN
+F 1 "PWR_FLAG" H 1375 4424 50  0000 C CNN
+F 2 "" H 1375 4250 50  0001 C CNN
+F 3 "~" H 1375 4250 50  0001 C CNN
+	1    1375 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L HeadphoneSwitch-eagle-import:GND1 #SUPPLY0109
+U 1 1 5C1482EF
+P 1375 4350
+F 0 "#SUPPLY0109" H 1375 4350 50  0001 C CNN
+F 1 "GND1" H 1375 4220 59  0000 C CNN
+F 2 "" H 1375 4350 50  0001 C CNN
+F 3 "" H 1375 4350 50  0001 C CNN
+	1    1375 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0101
+U 1 1 5C2550F8
+P 4775 950
+F 0 "#PWR0101" H 4775 800 50  0001 C CNN
+F 1 "VCC" V 4775 1175 50  0000 C CNN
+F 2 "" H 4775 950 50  0001 C CNN
+F 3 "" H 4775 950 50  0001 C CNN
+	1    4775 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0102
+U 1 1 5C289FF0
+P 2750 2275
+F 0 "#PWR0102" H 2750 2125 50  0001 C CNN
+F 1 "VCC" V 2750 2500 50  0000 C CNN
+F 2 "" H 2750 2275 50  0001 C CNN
+F 3 "" H 2750 2275 50  0001 C CNN
+	1    2750 2275
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0104
+U 1 1 5C296C61
+P 3900 3875
+F 0 "#PWR0104" H 3900 3725 50  0001 C CNN
+F 1 "VCC" V 3900 4100 50  0000 C CNN
+F 2 "" H 3900 3875 50  0001 C CNN
+F 3 "" H 3900 3875 50  0001 C CNN
+	1    3900 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0105
+U 1 1 5C2A3844
+P 4800 3850
+F 0 "#PWR0105" H 4800 3700 50  0001 C CNN
+F 1 "VCC" V 4800 4075 50  0000 C CNN
+F 2 "" H 4800 3850 50  0001 C CNN
+F 3 "" H 4800 3850 50  0001 C CNN
+	1    4800 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0106
+U 1 1 5C2B0427
+P 5700 3850
+F 0 "#PWR0106" H 5700 3700 50  0001 C CNN
+F 1 "VCC" V 5700 4075 50  0000 C CNN
+F 2 "" H 5700 3850 50  0001 C CNN
+F 3 "" H 5700 3850 50  0001 C CNN
+	1    5700 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 2475 3225 2475
+Wire Wire Line
+	2550 2475 2750 2475
+Connection ~ 2750 2475
+Wire Wire Line
+	2750 2475 2750 2275
+$Comp
+L power:VCC #PWR0108
+U 1 1 5C35D9CF
+P 10600 5175
+F 0 "#PWR0108" H 10600 5025 50  0001 C CNN
+F 1 "VCC" V 10600 5400 50  0000 C CNN
+F 2 "" H 10600 5175 50  0001 C CNN
+F 3 "" H 10600 5175 50  0001 C CNN
+	1    10600 5175
+	1    0    0    -1  
+$EndComp
+Text Label 3900 3925 0    50   ~ 0
+VCC
+Text Label 4800 3900 0    50   ~ 0
+VCC
+Text Label 5700 3925 0    50   ~ 0
+VCC
+Text Label 2750 2375 0    50   ~ 0
+VCC
+Text Label 4625 1025 0    50   ~ 0
+VCC
+Text Label 10600 5325 0    50   ~ 0
+VCC
+Text Label 2625 2650 0    50   ~ 0
+SCL5V
+Text Label 2650 2875 0    50   ~ 0
+SDA5V
+Text Label 3975 2575 0    50   ~ 0
+SCL5V
+Text Label 3850 2475 0    50   ~ 0
+SDA5V
+Wire Bus Line
+	7025 1350 7025 4875
+$EndSCHEMATC
