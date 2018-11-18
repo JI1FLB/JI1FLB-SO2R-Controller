@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Headphone-controler-v2r0a-rescue)(type Legacy)(uri ${KIPRJMOD}/Headphone-controler-v2r0a-rescue.lib)(options "")(descr ""))
+  (lib (name GR_relays)(type Legacy)(uri C:/Users/盛一/Documents/KiCAD/MyLib/GR_relays.lib/GR_relays.lib)(options "")(descr ""))
+  (lib (name g5v2)(type Legacy)(uri C:/Users/盛一/Documents/KiCAD/MyLib/g5v2.lib)(options "")(descr ""))
+  (lib (name mylib201305)(type Legacy)(uri C:/Users/盛一/Documents/KiCAD/MyLib/mylib201305.lib)(options "")(descr ""))
+)
