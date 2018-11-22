@@ -278,10 +278,6 @@ Wire Wire Line
 Wire Wire Line
 	1300 4550 1600 4550
 Wire Wire Line
-	1300 4750 1800 4750
-Wire Wire Line
-	1300 4950 3000 4950
-Wire Wire Line
 	5450 6350 5900 6350
 Wire Wire Line
 	2500 2350 1700 2350
@@ -337,12 +333,8 @@ Wire Wire Line
 	6100 6550 6100 6750
 Text Label 6100 6550 0    10   ~ 0
 GND1
-Wire Wire Line
-	1800 4750 1800 5450
 Text Label 1800 4750 0    10   ~ 0
 GND1
-Wire Wire Line
-	3000 5450 3000 4950
 Text Label 3000 5450 0    10   ~ 0
 GND1
 Wire Wire Line
@@ -1484,12 +1476,14 @@ F 3 "" H 2400 3050 50  0001 C CNN
 	1    2400 3050
 	1    0    0    -1  
 $EndComp
-Connection ~ 1800 4750
 Wire Wire Line
-	1800 4750 2800 4750
-Connection ~ 3000 4950
+	1800 4750 1800 5450
 Wire Wire Line
-	3000 4950 3200 4950
+	1300 4750 2800 4750
+Wire Wire Line
+	3000 5450 3000 4950
+Wire Wire Line
+	1300 4950 3200 4950
 Wire Bus Line
 	5600 1650 5600 5050
 $EndSCHEMATC
